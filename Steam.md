@@ -5,7 +5,7 @@
 #### Gabe Logan Newell 加布．紐維爾
 Gabe，人稱 G 胖。美國遊戲開發者和網上發行公司 Valve 的共同創辦人兼董事總經理。
 
-[![twitter: @GabeLoganNewell](https://i.imgur.com/QIHSpnO.png "twitter: @GabeLoganNewell")](https://twitter.com/GabeLoganNewell "twitter: @GabeLoganNewell")*twitter: @GabeLoganNewell*
+[![twitter: @GabeLoganNewell](https://i.imgur.com/QIHSpnO.png "twitter: @GabeLoganNewell")](https://twitter.com/GabeLoganNewell "twitter: @GabeLoganNewell") *twitter: @GabeLoganNewell*
 
 1983 於哈佛大學輟學，被時任 Microsoft 銷售主管 - *Steve Ballmer* 挖角進入 Microsoft，並在這裡工作了 13 年。Gabe 和同為 Microsoft 員工的 Mike Harrington，受到同樣由 Microsoft 離職的 Michael Abrash 的影響與啟發，離開微軟，在1996年創立 Valve。
 
@@ -71,33 +71,33 @@ Steam 利用金錢來提高遊戲上架的門檻，這對 Steam 與開發者無�
 
 Steam 有個與其他平台最不同之處，也就是**社群**。
 
-![Steam 社群實際畫面](https://i.imgur.com/CRK3zls.png "Steam 社群實際畫面")*Steam 社群實際畫面*
+![Steam 社群實際畫面](https://i.imgur.com/CRK3zls.png "Steam 社群實際畫面") *Steam 社群實際畫面*
 
 在社群裡，包含游戲與軟體玩家發佈的訊息或是官方内容。社群主要分爲：螢幕擷圖、影片、藝術作品、實況直播、工作坊、指南、評論、新聞等。
 
 **擷圖與影片**主要用於展示玩家在遊戲中的一些有趣的、具藝術性的畫面分享。在這一分區，可以讓尚未夠買遊戲的玩家更瞭解遊戲的畫面、内容的展示，同時也是很多已購買玩家發表遊戲中有趣見聞的聚集地。
 
-![CS:GO 遊戲擷圖](https://imgur.com/mBlImZs.png "CS:GO 遊戲擷圖")*CS:GO 遊戲擷圖*
+![CS:GO 遊戲擷圖](https://imgur.com/mBlImZs.png "CS:GO 遊戲擷圖") *CS:GO 遊戲擷圖*
 
 **藝術作品**分區的内容主要是在基於遊戲畫面、内容體驗的基礎上，眾多玩家的二創。基於遊戲的二創作品通常能使很多社群玩家對遊戲内容產生共鳴或新的發現。二創作品通常包含遊戲繪畫、gif 製作、迷因圖等大量玩家花費經歷所製作的作品，其在社群中的關注度很高。
 
 
 **實況直播**是一個比較有趣的版面，它不僅僅實現遊戲直播的功能，也是構成 Steam 推薦系統頁面的一個重要環節，從直播主的遊戲體驗、畫面展示，玩家可以更好地瞭解在真正實際遊戲時的内容體驗，同時遊戲直播主的專業有趣的遊玩方式也會更大程度地勾起玩家的遊戲積極性，順勢推坑多款遊戲。
 
-![Steam 社群實況直播實際畫面](https://cdn-images-1.medium.com/max/720/1*NM0vU6HLVt-PcvLDBgLoQw.png "Steam 社群實況直播實際畫面")*Steam 社群實況直播實際畫面*
+![Steam 社群實況直播實際畫面](https://cdn-images-1.medium.com/max/720/1*NM0vU6HLVt-PcvLDBgLoQw.png "Steam 社群實況直播實際畫面") *Steam 社群實況直播實際畫面*
 
 
 ![可以在商店首頁看到正在直播的遊戲實況](https://cdn-images-1.medium.com/max/720/1*kTjCz_2ynLcjNcwIEry2KQ.png "可以在商店首頁看到正在直播的遊戲實況")
 
 **指南**版面類似於所謂的遊戲攻略，但目前的内容大多都是關於 Dota 2 的遊戲玩法攻略，鮮少有其他遊戲的攻略出現在指南板塊中。似乎大多數玩家對於遊戲攻略等資訊更傾向於使用其他論壇（例如巴哈場外或是批踢踢），或是即時通訊軟體 (Discord 等等)。
 
-![大多都為 Dota 2 的指南](https://cdn-images-1.medium.com/max/720/1*i9vwXzNarBlODgb-s1X4Vw.png "大多都為 Dota 2 的指南")*大多都為 Dota 2 的指南*
+![大多都為 Dota 2 的指南](https://cdn-images-1.medium.com/max/720/1*i9vwXzNarBlODgb-s1X4Vw.png "大多都為 Dota 2 的指南") *大多都為 Dota 2 的指南*
 
 **評論區**也是構成 Steam 推薦系統頁面的一環，一個好遊戲可能現在並沒有對上你的標籤，但遊戲就像是情人，你在沒有遇到一個更好的人之前，會覺得現在這個已經足夠好，而只有當你見到那個更好的時候，才會發現你錯了，而評論區就像是一個閲歷豐富的伐柯人，帶你瞭解遊戲的精髓，帶你探索更多你所不知道的、但可能更適合你的遊戲。
 
 ![](https://cdn-images-1.medium.com/max/720/1*JCBNxRNYhut9rqnZU3nFXA.png)
 
-![Fallout 76 遊戲頁面的評論](https://cdn-images-1.medium.com/max/720/1*BBRUmDV5cVrVJGhMarevaA.png "Fallout 76 遊戲頁面的評論")*Fallout 76 遊戲頁面的評論*
+![Fallout 76 遊戲頁面的評論](https://cdn-images-1.medium.com/max/720/1*BBRUmDV5cVrVJGhMarevaA.png "Fallout 76 遊戲頁面的評論") *Fallout 76 遊戲頁面的評論*
 
 最後，Steam 社群有個最重要的區塊，那就是 **工作坊(Workshop)**，重要到需要特別為它詳細講述。
 
@@ -168,6 +168,7 @@ Steam 並沒有獨佔的問題，故有各種製作商與發行商的遊戲，�
 #### Epic Games Store
 
 Epic 有超過 1.6 億的消費者總數。在 2020年回顧中，十二月份活躍使用者超過 5600 萬。
+
 [![Epic Games Store 2020年度回顧](https://cdn-images-1.medium.com/max/720/1*1mNwSUccgHKFH3irRZ9d4Q.jpeg "Epic Games Store 2020年度回顧")](https://www.epicgames.com/store/zh-Hant/news/epic-games-store-2020-year-in-review "Epic Games Store 2020年度回顧") *Epic Games Store 2020年度回顧*
 
 #### Steam
@@ -178,7 +179,7 @@ Steam **總帳號數**於 [2019年即突破 10 億](https://www.techbang.com/pos
 
 在 2020 年度回顧，每月總共有 1.2 億玩家登入，6260 萬的日活躍者，同時上線玩家最高峰達 2480 萬人（甚至超過台灣總人口數：2357 萬）
 
-[![Steam 2020年度回顧](https://cdn-images-1.medium.com/max/1080/0*AkFe0AomRzyiQ-Ec "Steam 2020年度回顧")](https://store.steampowered.com/news/group/4145017/view/2961646623386540826?l=tchinese)*Steam 2020年度回顧*
+[![Steam 2020年度回顧](https://cdn-images-1.medium.com/max/1080/0*AkFe0AomRzyiQ-Ec "Steam 2020年度回顧")](https://store.steampowered.com/news/group/4145017/view/2961646623386540826?l=tchinese) *Steam 2020年度回顧*
 
 [![2021/06/13 03:20 Steam 目前同時上線使用者高達 2151萬人，當日最高峰高達 2389萬人](https://cdn-images-1.medium.com/max/1080/1*jJWDxNIOQdw0WE8dyz2AGw.png "2021/06/13 03:20 Steam 目前同時上線使用者高達 2151萬人，當日最高峰高達 2389萬人")](https://store.steampowered.com/stats/?l=tchinese)*2021/06/13 03:20 Steam 目前同時上線使用者高達 2151萬人，當日最高峰高達 2389萬人*
 
@@ -350,13 +351,14 @@ Steam 不僅是一個遊戲購買、啟動的平台，更是玩家交流、好�
 
 獨立遊戲與技術力低下、畫面精細與否、是否商業化等要素無關，而是取決於製作者在遊戲中的自我表達的佔比，比起一般商業遊戲更高，更具有創新性，如在玩法、敘事、表現上具有新方向的立意與嘗試。
 
-Maria B. Garda 和 Paweł Grabarczyk 指出可以使用三種不同類型的獨立性來定義獨立遊戲：財務獨立性、創意獨立性及發行商獨立性。[^1 ]
+Maria B. Garda 和 Paweł Grabarczyk 指出可以使用三種不同類型的獨立性來定義獨立遊戲：財務獨立性、創意獨立性及發行商獨立性。
+> B. M. Garda and P. Grabarczyk, "Is every indie game independent? Towards the concept of indie game. Game Studies," 2015.
 
 筆者認為，在一款獨立遊戲中，製作者的想法是最為優先的，往往在一些優秀的獨立遊戲中，其世界觀、藝術表達、玩法等方面不會遜色於一些 3A 大作。
 
 > 簡而言之，獨立遊戲製作者們的**個人化主義風格**是獨立遊戲與一般商業遊戲最大的差別。
 
-![近五年來，Steam 上的獨立遊戲發布數量增長趨勢](https://cdn-images-1.medium.com/max/1080/1*2utzBQdeXyYF2HpwqKvMXw.png "近五年來，Steam 上的獨立遊戲發布數量增長趨勢" )*近五年來，Steam 上的獨立遊戲發布數量增長趨勢*
+![近五年來，Steam 上的獨立遊戲發布數量增長趨勢](https://cdn-images-1.medium.com/max/1080/1*2utzBQdeXyYF2HpwqKvMXw.png "近五年來，Steam 上的獨立遊戲發布數量增長趨勢" ) *近五年來，Steam 上的獨立遊戲發布數量增長趨勢*
 
 #### Obstacle for Developers
 
@@ -432,5 +434,3 @@ Valve 在2020年發售的《Half-Life: Alyx》作為一款AR遊戲，取得了�
 你一定聽說過 HTC Vive，就是那個2016年發布的頭戴式VR設備，它是 HTC  與 Valve 共同開發的產品，是 Valve SteamVR 項目的一部分，所以你一定已經感受到了， Valve 是如何看待 VR 的。
 
 在用於開發 VR 遊戲的角度上， Valve 已經證明了 Source Engine 在此領域的技術表現力。 Valve 可以在此領域利用社群團體、獨立遊戲製作者們協同開發、意見反饋，拓展現有 API 在此領域的功能及玩法。
-
-[^1 ]: B. M. Garda and P. Grabarczyk, "Is every indie game independent? Towards the concept of indie game. Game Studies," 2015, http://gamestudies.org/1601/articles/Gardagrabarczyk/.
