@@ -30,12 +30,12 @@ Gabe，人稱 G 胖。美國遊戲開發者和網上發行公司 Valve 的共同
 + 2007｜推出 Steam 社群功能。
 + 2008｜推出線上對戰模式、Steamworks。
 + 2011｜推出 Steam Workshop。
-- 2012｜《Counter-Strike: Global Offensive》發售，使用增強版 Source Engine。
-- 2014｜推出串流功能。
-- 2015｜推出直播功能。
-- 2016｜推出 Steam VR。
-- 2017｜Steam 關閉 Greenlight，取而代之的是 Steam Direct。
-- 2020｜公布 Steam Cloud Play (Steam 雲端遊戲平台)。
++ 2012｜《Counter-Strike: Global Offensive》發售，使用增強版 Source Engine。
++ 2014｜推出串流功能。
++ 2015｜推出直播功能。
++ 2016｜推出 Steam VR。
++ 2017｜Steam 關閉 Greenlight，取而代之的是 Steam Direct。
++ 2020｜公布 Steam Cloud Play (Steam 雲端遊戲平台)。
 
 ## Strategy
 ### Developer
